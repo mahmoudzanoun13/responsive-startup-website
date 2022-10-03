@@ -10,7 +10,7 @@
 ⚡️ Well organized documentation\
 ⚡️ You can go to the top of the page whenever you scroll
 
-To view the demo: **[click here](https://responsive-startup-website.vercel.app)**
+To view the demo: **[click here](https://responsive-startup-website-beta.vercel.app)**
 
 ---
 
